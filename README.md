@@ -30,7 +30,7 @@ Database: MongoDB / Firebase
  Getting Started
 
 Clone the repository:
-git clone https://github.com/your-username/Swaas_FULLApp.git
+git clone https://github.com/Harshxo44/Swaas_FULLApp.git
 cd SwaasApp
 
 
