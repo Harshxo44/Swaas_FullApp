@@ -2,16 +2,19 @@
 
 Swaas is a community-driven health monitoring app that helps track reported symptoms, monitor water contamination alerts, and provide insights for safer and healthier living.
 
-📱 Screenshots
-📊 Dashboard
+ Screenshots
+ Dashboard
 <img src="![Uploading WhatsApp Image 2025-09-13 at 13.42.17_cea4f0f6.jpg…]()
 " alt="Dashboard" width="300"/>
 🚨 Active Alerts
-<img src="IMG-20250913-WA0014.jpg" alt="Active Alerts" width="300"/>
+<img src="![WhatsApp Image 2025-09-13 at 13 42 17_5a714703](https://github.com/user-attachments/assets/9e6b5ddc-68f6-4a34-87a2-907a2294c96c)
+" alt="Active Alerts" width="300"/>
 👤 User Profile
-<img src="IMG-20250913-WA0016.jpg" alt="Profile" width="300"/>
+<img src="![IMG-20250913-WA0016](https://github.com/user-attachments/assets/f116d228-1eea-40f8-a940-795efccff3ab)
+" alt="Profile" width="300"/>
 ⚙️ Settings
-<img src="IMG-20250913-WA0018.jpg" alt="Settings" width="300"/>
+<img src="![WhatsApp Image 2025-09-13 at 13 42 18_f7ce1ff2](https://github.com/user-attachments/assets/ab4d029e-2359-4a5f-9cdc-8177d984ba74)
+" alt="Settings" width="300"/>
 ✨ Features
 
 📊 Dashboard Overview: Quick insights into reports, alerts, users, and communities.
@@ -32,7 +35,7 @@ Backend: Python/Node.js
 
 Database: MongoDB / Firebase
 
-🚀 Getting Started
+ Getting Started
 
 Clone the repository:
 
@@ -46,7 +49,7 @@ Configure your backend & database.
 
 Run the app on emulator or physical device.
 
-📌 Future Enhancements
+ Future Enhancements
 
 AI-powered prediction of outbreak trends.
 
