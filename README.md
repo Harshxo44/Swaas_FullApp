@@ -4,16 +4,16 @@ Swaas is a community-driven health monitoring app that helps track reported symp
 
  Screenshots
  Dashboard
-<img src="![Uploading WhatsApp Image 2025-09-13 at 13.42.17_cea4f0f6.jpg…]()
+<img src="![Image](https://github.com/user-attachments/assets/3f2a8722-950f-4854-b871-67d0c0da872d)
 " alt="Dashboard" width="300"/>
 🚨 Active Alerts
-<img src="![WhatsApp Image 2025-09-13 at 13 42 17_5a714703](https://github.com/user-attachments/assets/9e6b5ddc-68f6-4a34-87a2-907a2294c96c)
+<img src="![Image](https://github.com/user-attachments/assets/beb8759a-6783-46e1-9d9d-ce02c7cae23a)
 " alt="Active Alerts" width="300"/>
 👤 User Profile
-<img src="![IMG-20250913-WA0016](https://github.com/user-attachments/assets/f116d228-1eea-40f8-a940-795efccff3ab)
+<img src="![Image](https://github.com/user-attachments/assets/925a748c-018e-46f0-9271-c8f2788cfae1)
 " alt="Profile" width="300"/>
 ⚙️ Settings
-<img src="![WhatsApp Image 2025-09-13 at 13 42 18_f7ce1ff2](https://github.com/user-attachments/assets/ab4d029e-2359-4a5f-9cdc-8177d984ba74)
+<img src="![Image](https://github.com/user-attachments/assets/eca669f2-d6c6-4461-bb3a-8c00676a6857)
 " alt="Settings" width="300"/>
 ✨ Features
 
